@@ -23,5 +23,6 @@ public class JavaClass {
     public static void main(String[] args) 
     { 
         System.out.printf("%d", (new JavaClass()).function() + myMethod()); 
+        System.out.println("Sample Java Program");
     } 
 }
